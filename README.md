@@ -1,5 +1,4 @@
 # Mathematics-and-Statistics
-Mathematics and Statistics
 
 Xác suất, thống kê (Probability Statistic)
 - Descriptive Statistics (thống kê mô tả)
