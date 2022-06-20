@@ -7,8 +7,8 @@ Xác suất, thống kê (Probability Statistic)
   + Variance
   + Co-variance
   + Range
-  + Probability Density Function (PDF: hàm mật độ xác suất)
   + Outliers
+  + Probability Density Function (PDF: hàm mật độ xác suất)
   + Probability mass function (PMF: hàm khối xác suất)
   + Cumulative distribution function (CDF: hàm phân phối tích lũy)
 
