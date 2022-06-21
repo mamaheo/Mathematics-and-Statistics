@@ -7,10 +7,10 @@ Xác suất, thống kê (Probability Statistic)
 ![img](https://www.wikihow.com/images/thumb/f/fe/Find-Mean%2C-Median%2C-and-Mode-Step-3-Version-2.jpg/aid1660401-v4-728px-Find-Mean%2C-Median%2C-and-Mode-Step-3-Version-2.jpg.webp)
 ![img](https://www.wikihow.com/images/thumb/8/8c/Find-Mean%2C-Median%2C-and-Mode-Step-5-Version-2.jpg/aid1660401-v4-728px-Find-Mean%2C-Median%2C-and-Mode-Step-5-Version-2.jpg.webp)
 ![img](https://www.wikihow.com/images/thumb/2/29/Find-Mean%2C-Median%2C-and-Mode-Step-7-Version-2.jpg/aid1660401-v4-728px-Find-Mean%2C-Median%2C-and-Mode-Step-7-Version-2.jpg.webp)
-  + [Standard Deviation (độ lệch chuẩn) & Variance (phương sai)](https://www.wikihow.com/Calculate-Standard-Deviation)
+  + [Standard Deviation (độ lệch chuẩn) & Variance (phương sai)](https://www.wikihow.com/Calculate-Standard-Deviation): tells you how spread out the numbers are in a sample
 
 ![img](https://www.wikihow.com/images/thumb/7/78/Calculate-Standard-Deviation-Step-5-Version-7.jpg/aid868007-v4-728px-Calculate-Standard-Deviation-Step-5-Version-7.jpg)
-  + [Co-variance (hiệp phương sai)](https://www.wikihow.com/Calculate-Covariance) 
+  + [Co-variance (hiệp phương sai)](https://www.wikihow.com/Calculate-Covariance): statistical calculation that helps you understand how two sets of data are related to each other
   
 ![img](https://cdn.discuss.boardinfinity.com/original/2X/9/974ce4914dde5a5c9b9f1394fb8f37abafc8493b.png)
   + Range (khoảng)
