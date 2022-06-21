@@ -23,6 +23,8 @@ Xác suất, thống kê (Probability Statistic)
   + Probability mass function (PMF: hàm khối xác suất)
   + Cumulative distribution function (CDF: hàm phân phối tích lũy)
 
+![img](http://work.thaslwanter.at/Stats/html/_images/PDF_CDF.png)
+
 #### Probability (Xác suất)
   + Quy tắc xác suất
   + Exponential distribution (phân phối mũ)
