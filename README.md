@@ -13,7 +13,7 @@ Xác suất, thống kê (Probability Statistic)
   + [Co-variance (hiệp phương sai)](https://www.wikihow.com/Calculate-Covariance): statistical calculation that helps you understand how two sets of data are related to each other
   
 ![img](https://cdn.discuss.boardinfinity.com/original/2X/9/974ce4914dde5a5c9b9f1394fb8f37abafc8493b.png)
-  + Range (khoảng)
+  + [Range (khoảng)](https://www.wikihow.com/Calculate-Range) : represents the difference between the highest value of a data set and the lowest value of a data set
   + Outliers (dữ liệu ngoại lai)
   + Probability Density Function (PDF: hàm mật độ xác suất)
   + Probability mass function (PMF: hàm khối xác suất)
