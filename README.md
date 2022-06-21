@@ -5,7 +5,9 @@ Xác suất, thống kê (Probability Statistic)
   + Mean, Median, Mode (trung bình , trung vị , yếu vị)
   + Standard Deviation (độ lệch chuẩn)
   + Variance (phương sai)
-  + Co-variance (hiệp phương sai): đo lường mối quan hệ giữa hai biến
+  + Co-variance (hiệp phương sai): 
+  +   đo lường mối quan hệ định hướng giữa lợi nhuận trên hai tài sản. Hiệp phương sai dương có nghĩa là lợi nhuận của hai tài sản di chuyển cùng nhau trong khi hiệp phương       sai âm có nghĩa là chúng di chuyển ngược lại.
+  +   tính bằng cách phân tích các biến động về lãi suất (độ lệch chuẩn so với lợi nhuận kì vọng) hoặc bằng cách nhân mối tương quan giữa hai biến với độ lệch chuẩn của           từng biến
   + Range (khoảng)
   + Outliers (dữ liệu ngoại lai)
   + Probability Density Function (PDF: hàm mật độ xác suất)
