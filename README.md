@@ -28,9 +28,15 @@ Xác suất, thống kê (Probability Statistic)
   + Exponential distribution (phân phối mũ)
   + Pareto distribution (phân phối Pareto)
   + Nomal Distribution - Gaussian Distribution (phân phối chuẩn)
+
+![img](https://phamdinhkhanh.github.io/deepai-book/_images/nb_appendix_probability_18_0.png)
   + Binomial distribution (phân phối nhị thức)
   + Uniform Distribution (phân phối đồng nhất)
+
+![img](https://phamdinhkhanh.github.io/deepai-book/_images/nb_appendix_probability_21_0.png)
   + Poisson Distribution (phân phối Poisson)
+
+![img](https://phamdinhkhanh.github.io/deepai-book/_images/nb_appendix_probability_21_0.png](https://phamdinhkhanh.github.io/deepai-book/_images/nb_appendix_probability_24_0.png)
   + Bernoulli Distribution (phân phối Bernoulli)
   + Central Limit Theorem (định lý giới hạn trung tâm)
   + Three Sigma Rule (quy tắc 3 sigma)
