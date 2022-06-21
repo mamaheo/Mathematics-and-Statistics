@@ -17,6 +17,8 @@ Xác suất, thống kê (Probability Statistic)
 
 ![img](https://www.wikihow.com/images/thumb/a/a6/Calculate-Range-Step-3-Version-3.jpg/aid1382980-v4-728px-Calculate-Range-Step-3-Version-3.jpg.webp)
   + [Outliers (dữ liệu ngoại lai)](https://www.wikihow.com/Calculate-Outliers) : data point that significantly differs from the other data points in a sample
+
+![img](https://www.wikihow.com/images/thumb/9/9d/Calculate-Outliers-Step-8Bullet2.jpg/aid1448091-v4-728px-Calculate-Outliers-Step-8Bullet2.jpg.webp)
   + Probability Density Function (PDF: hàm mật độ xác suất)
   + Probability mass function (PMF: hàm khối xác suất)
   + Cumulative distribution function (CDF: hàm phân phối tích lũy)
