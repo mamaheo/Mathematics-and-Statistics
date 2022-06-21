@@ -3,8 +3,13 @@
 Xác suất, thống kê (Probability Statistic)
 #### Descriptive Statistics (thống kê mô tả)
   + [Mean, Median, Mode (trung bình , trung vị , yếu vị)](https://www.wikihow.com/Find-Mean,-Median,-and-Mode)
-  + Standard Deviation (độ lệch chuẩn)
-  + Variance (phương sai)
+
+![img](https://www.wikihow.com/images/thumb/f/fe/Find-Mean%2C-Median%2C-and-Mode-Step-3-Version-2.jpg/aid1660401-v4-728px-Find-Mean%2C-Median%2C-and-Mode-Step-3-Version-2.jpg.webp)
+![img](https://www.wikihow.com/images/thumb/8/8c/Find-Mean%2C-Median%2C-and-Mode-Step-5-Version-2.jpg/aid1660401-v4-728px-Find-Mean%2C-Median%2C-and-Mode-Step-5-Version-2.jpg.webp)
+![img](https://www.wikihow.com/images/thumb/2/29/Find-Mean%2C-Median%2C-and-Mode-Step-7-Version-2.jpg/aid1660401-v4-728px-Find-Mean%2C-Median%2C-and-Mode-Step-7-Version-2.jpg.webp)
+  + [Standard Deviation (độ lệch chuẩn) & Variance (phương sai)](https://www.wikihow.com/Calculate-Standard-Deviation)
+
+![img](https://www.wikihow.com/images/thumb/7/78/Calculate-Standard-Deviation-Step-5-Version-7.jpg/aid868007-v4-728px-Calculate-Standard-Deviation-Step-5-Version-7.jpg)
   + [Co-variance (hiệp phương sai)](https://www.wikihow.com/Calculate-Covariance) 
   
 ![img](https://cdn.discuss.boardinfinity.com/original/2X/9/974ce4914dde5a5c9b9f1394fb8f37abafc8493b.png)
