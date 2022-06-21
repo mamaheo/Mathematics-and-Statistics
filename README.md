@@ -5,7 +5,7 @@ Xác suất, thống kê (Probability Statistic)
   + Mean, Median, Mode (trung bình , trung vị , yếu vị)
   + Standard Deviation (độ lệch chuẩn)
   + Variance (phương sai)
-  + Co-variance (hiệp phương sai)
+  + Co-variance (hiệp phương sai): đo lường mối quan hệ giữa hai biến
   + Range (khoảng)
   + Outliers (dữ liệu ngoại lai)
   + Probability Density Function (PDF: hàm mật độ xác suất)
