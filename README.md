@@ -2,7 +2,7 @@
 
 Xác suất, thống kê (Probability Statistic)
 #### Descriptive Statistics (thống kê mô tả)
-  + Mean, Median, Mode (trung bình , trung vị , yếu vị)
+  + [Mean, Median, Mode (trung bình , trung vị , yếu vị)](https://www.wikihow.com/Find-Mean,-Median,-and-Mode)
   + Standard Deviation (độ lệch chuẩn)
   + Variance (phương sai)
   + [Co-variance (hiệp phương sai)](https://www.wikihow.com/Calculate-Covariance) 
