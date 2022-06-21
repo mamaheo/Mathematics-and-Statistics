@@ -14,6 +14,8 @@ Xác suất, thống kê (Probability Statistic)
   
 ![img](https://cdn.discuss.boardinfinity.com/original/2X/9/974ce4914dde5a5c9b9f1394fb8f37abafc8493b.png)
   + [Range (khoảng)](https://www.wikihow.com/Calculate-Range) : represents the difference between the highest value of a data set and the lowest value of a data set
+
+![img](https://www.wikihow.com/images/thumb/a/a6/Calculate-Range-Step-3-Version-3.jpg/aid1382980-v4-728px-Calculate-Range-Step-3-Version-3.jpg.webp)
   + Outliers (dữ liệu ngoại lai)
   + Probability Density Function (PDF: hàm mật độ xác suất)
   + Probability mass function (PMF: hàm khối xác suất)
